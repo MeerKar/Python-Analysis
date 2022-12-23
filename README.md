@@ -29,13 +29,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 THe output of the analysis is as follows:
 
-Financial Analysis
-------------------------
-Total Months: 86
-Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16($$1862002)
-Greatest Decrease in Profits: Feb-14($$1862002)
-
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/116701851/209395504-37bdc741-9b78-4d4f-ac80-c158c1bb3211.png">
 
 
 
@@ -59,17 +53,9 @@ The winner of the election based on popular vote
 The Output of the analysis is 
 
 
-Election Results
---------------------------
-Total Votes: 369711
---------------------------
-Charles Casper Stockham: 23.000% (85213)
-Diana DeGette: 74.000% (272892)
-Raymon Anthony Doane: 3.000% (11606)
---------------------------
-Winner: Diana DeGette
---------------------------
 
+
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/116701851/209395251-dee8d211-7693-4703-b1bb-fdc200358dea.png">
 
 
 
