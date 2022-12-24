@@ -58,7 +58,7 @@ line2 = "------------------------"
 line3 = str(f"Total Months: {str(total_months)}")
 line4 = str(f"Average Change: ${str(round(avg_change,2))}")
 line5 = str(f"Greatest Increase in Profits: {greatest__inc_date}($${str(greatest_increase)})")
-line6 = str(f"Greatest Decrease in Profits: {greatest__dec_date}($${str(greatest_increase)})")
+line6 = str(f"Greatest Decrease in Profits: {greatest__dec_date}($${str(greatest_decrease)})")
 
 pybankoutput.write('{}\n{}\n{}\n{}\n{}\n{}\n'.format(line1, line2, line3, line4, line5, line6))
 
