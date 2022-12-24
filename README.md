@@ -29,9 +29,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 THe output of the analysis is as follows:
 
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/116701851/209395504-37bdc741-9b78-4d4f-ac80-c158c1bb3211.png">
-
-
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/116701851/209414936-485b0904-21c1-4e21-abfa-694b8f16e514.png">
 
 PyPoll
 
